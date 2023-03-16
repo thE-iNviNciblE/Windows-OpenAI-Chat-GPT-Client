@@ -1,3 +1,22 @@
+# Windows client for OpenAI APIs
+Access to the REST API of "Chat" (GPT-3, GPT-4) / "Completion" (multiple models text-davinci-003, Codex) / "Images" (e.g. GPT-3 Turbo)
+
+## Installation
+The .NET Framework 7.x is required. [Download]https://dotnet.microsoft.com/en-us/download/dotnet/7.0.
+
+## For service
+Get your own OpenAI API key for free to use the software. You will be asked for this key right when you start the software and there is a clickable link. You need a login to the OpenAI platform, e.g. for the public chat function.
+
+### Settings and Limits
+Watch out for "." and "," when entering numbers.
+- You can set "Random" from 0.0 to 1.0.
+- You can set "UserID" to any value, so far it should correspond to "New Chat" with no strange previous context.
+- Max Tokens is equal to length and used for billing OpenAI paid (you need billing account for paid mode). Max tokens can be 1-2048 and 4000 tokens, which corresponds to the text length.
+- You can change the "Model" text-davinci 001 - 003 are the most popular ones besides Chat GPT-3, GPT-4.
+- In order to generate images with Dalle-2 you have to switch the "Mode" to "IMAGES". You will get a URL to the picture which you have to copy out.
+
+--------------
+
 # Windows Client für OpenAI API's
 Zugriff auf die REST API von "Chat" (GPT-3, GPT-4) / "Completition" (mehrere Modelle text-davinci-003, Codex) / "Bilder" (z.B. GPT-3 Turbo)
 
