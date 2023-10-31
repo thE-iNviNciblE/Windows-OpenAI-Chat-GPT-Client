@@ -17,7 +17,7 @@ Watch out for "." and "," when entering numbers.
 
 --------------
 
-# Windows Client für OpenAI API's
+# Windows Client für OpenAI ChatGPT API's
 Zugriff auf die REST API von "Chat" (GPT-3, GPT-4) / "Completition" (mehrere Modelle text-davinci-003, Codex) / "Bilder" (z.B. GPT-3 Turbo)
 
 ## Installation
