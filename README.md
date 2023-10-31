@@ -1,4 +1,4 @@
-# Windows client for OpenAI APIs
+# Windows client for OpenAI ChatGPT APIs
 Access to the REST API of "Chat" (GPT-3, GPT-4) / "Completion" (multiple models text-davinci-003, Codex) / "Images" (e.g. GPT-3 Turbo)
 
 ## Installation
